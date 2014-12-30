@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "name": "Caracola mágica",
+  "description": "Pregúntale a la caracola mágica y ella te dará la respuesta.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/content/icono.png"
+  },
+  "developer": {
+    "name": "@amirtorrez",
+    "url": "http://twitter.com/amirtorrez"
+  },
+  "installs_allowed_from": ["*"],
+  "orientation": ["portrait-primary"]
+}
+
