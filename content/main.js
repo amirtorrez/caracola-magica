@@ -1,6 +1,6 @@
 function preguntar(){
 	var cantresp = 10;
-	var Resp1 = Math.floor(Math.random()*(cantresp+3)),Resp2, Preg = document.getElementById('pregunta').value;
+	var Resp1 = Math.floor(Math.random()*(cantresp+2)),Resp2, Preg = document.getElementById('pregunta').value;
 	switch(Resp1){
 		default:Resp2='¡Preguntame otra cosa!';break;
 		case 0:Resp2='Claro';break;
