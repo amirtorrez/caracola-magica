@@ -1,5 +1,5 @@
 *{margin: 0;color: inherit;font-weight: inherit;letter-spacing: -.04em;text-decoration: none;transition: inherit;-moz-transition: inherit;-webkit-transition: inherit;}
-html,body{background-image:url(bg.jpeg);font-size:18px;text-shadow: 1px 1px 1px #999;}
+html,body{background-image:url(bg.jpeg);background-repeat: no-repeat;background-size: auto;font-size:18px;text-shadow: 1px 1px 1px #999;}
 #nav{background:#33CCCC;padding:16px;text-align:center;color:#333;text-shadow: 1px 1px 1px #CCC;font-weight:bold;}
 #content{margin-top:30px;}
 #form{text-align:center;margin:0 auto;}
